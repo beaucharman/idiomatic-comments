@@ -83,6 +83,18 @@ Inspired by the awesome [github.com/necolas/idiomatic-css](https://github.com/ne
 // and also used in Sass to declare what I like to refer to, 'dissolving' 
 // comments.
 
+// Useful for inline defualt / suggested variables...
+
+var foo = bar // qux
+
+// and to mark where code is to be placed.
+
+;(function () {
+
+  // your code here...
+
+})();
+
 ```
 
 **Sass**
