@@ -71,7 +71,8 @@ Inspired by the awesome [github.com/necolas/idiomatic-css](https://github.com/ne
  */ 
  
 /**
- * Less important comment block
+ * Less important heading 
+ * with comment block
  * ====================================
  * (Half size divider)
  */
