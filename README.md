@@ -69,6 +69,12 @@ Inspired by the awesome [github.com/necolas/idiomatic-css](https://github.com/ne
  * consectetur adipiscing elit. Nullam nec purus auctor purus vehicula 
  * lacinia. Duis elementum arcu at diam volutpat in volutpat dolor blandit.
  */ 
+ 
+/**
+ * Less important comment block
+ * ====================================
+ * (Half size divider)
+ */
 
 /* Single line code description */
 
