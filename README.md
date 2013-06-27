@@ -1,8 +1,6 @@
-# idiomatic-comments
+# Idiomatic Comments
 
 > Just for the record, how I like to comment my CSS, JavaScript and PHP, and similarly my HTML with consistent characteristics and structure, to maintain consistency, good communication and easy maintenance across languages.
-
-# Idiomatic Comments
 
 Just for the record, how I like to comment my CSS, JavaScript and PHP, and similarly my HTML with consistent characteristics and structure, to maintain consistency, good communication and easy maintenance across languages.
 
@@ -79,19 +77,19 @@ Inspired by the awesome [github.com/necolas/idiomatic-css](https://github.com/ne
 
 /* Single line code description */
 
-// quick statement, description or placeholder (you code here... type of thing)
-// and also used in Sass to declare what I like to refer to, 'dissolving' 
-// comments.
+// Quick statement or description. 
+// Also used in Sass to declare what I like to refer to as 
+// 'dissolving' comments.
 
 // Useful for inline defualt / suggested variables...
 
-var foo = bar // qux
+var foo = bar; // qux
 
 // and to mark where code is to be placed.
 
 ;(function () {
 
-  // your code here...
+  // you code here... type of thing
 
 })();
 
