@@ -2,8 +2,6 @@
 
 > Just for the record, how I like to comment my CSS, JavaScript and PHP, and similarly my HTML with consistent characteristics and structure, to maintain consistency, good communication and easy maintenance across languages.
 
-Just for the record, how I like to comment my CSS, JavaScript and PHP, and similarly my HTML with consistent characteristics and structure, to maintain consistency, good communication and easy maintenance across languages.
-
 Inspired by the awesome [github.com/necolas/idiomatic-css](https://github.com/necolas/idiomatic-css)
 
 ### File header
