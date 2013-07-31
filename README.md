@@ -94,6 +94,29 @@ var foo = bar; // qux
 
 ```
 
+### Individual Line Flagging and Explaining    
+
+Kudos to https://github.com/necolas/idiomatic-css#5-practical-example
+
+```css
+/**
+ * Function / Style Block Title
+ * ========================================================================
+ * consectetur adipiscing elit. Nullam nec purus auctor purus vehicula 
+ * lacinia. Duis elementum arcu at diam volutpat in volutpat dolor blandit.
+ * 1. Explination of line
+ * 2. Explination of line
+ * 3. Explination of line
+ */
+.selector {
+  line-height: 1.4;  /* [1] */
+  font-size: 1.25em; /* [2] */
+  min-width: 300px; 
+  z-index: 9;        /* [3] */
+}
+
+```
+
 **Sass**
 
 A little more on Sass and 'dissolving' comments (The ones you don't want rendering in CSS)
