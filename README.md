@@ -109,10 +109,10 @@ Kudos to https://github.com/necolas/idiomatic-css#5-practical-example
  * 3. Explination of line
  */
 .selector {
-  line-height: 1.4;  /* [1] */
-  font-size: 1.25em; /* [2] */
+  line-height: 1.4;  /* 1 */
+  font-size: 1.25em; /* 2 */
   min-width: 300px; 
-  z-index: 9;        /* [3] */
+  z-index: 9;        /* 3 */
 }
 
 ```
