@@ -98,6 +98,8 @@ var foo = bar; // qux
 
 Kudos to https://github.com/necolas/idiomatic-css#5-practical-example
 
+**CSS**
+
 ```css
 /**
  * Function / Style Block Title
@@ -114,6 +116,20 @@ Kudos to https://github.com/necolas/idiomatic-css#5-practical-example
   min-width: 300px; 
   z-index: 9;        /* 3 */
 }
+
+/* Implied tag context */
+
+/*ul*/.list {
+ 
+}
+
+   /*li*/.item {
+   
+   }
+   
+   /*a*/.link {
+   
+   }
 
 ```
 
